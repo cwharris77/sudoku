@@ -1,0 +1,7 @@
+1. Randomly generated playable sudoku board
+2. Resizeable board
+3. Difficulty settings
+4. Error location finding
+5. Sound
+6. Dynamic change
+7. clear board button
